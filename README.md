@@ -1,1 +1,1 @@
-This is programming shit
+This is programming
