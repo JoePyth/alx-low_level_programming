@@ -1,9 +1,16 @@
-#include <stdio.h>
+#include <unistd.h>
 #include <main.h>
 
-int main(void) {
-	putchar("_putchar\n");
+/**
+ * main - entry point
+ *
+ * Return - Always  0
 
-	return(0);
+ */
 
-}
+int main(void) 
+{
+	int _putchar
+
+	
+
